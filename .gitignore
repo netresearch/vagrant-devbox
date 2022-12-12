@@ -2,6 +2,7 @@
 !/docs
 !/install
 !/provision
+!/.gitattributes
 !/.gitignore
 !/README.md
 !/Vagrantfile
